@@ -1,0 +1,9 @@
+C:\Users\ADM-IG-HWDLAB2E>set PATH=D:\
+
+C:\Users\ADM-IG-HWDLAB2E>cd D:\
+
+C:\Users\ADM-IG-HWDLAB2E>pscp
+
+C:\Users\ADM-IG-HWDLAB2E>pscp ganese@10.102.22.111:/home/ganese/MiniProject/DIM_EDUCATION.csv D:\hosts.csv
+
+C:\Users\ADM-IG-HWDLAB2E>pscp ganese@10.102.22.111:/home/ganese/MiniProject/Writefiles/X*.csv D:\
